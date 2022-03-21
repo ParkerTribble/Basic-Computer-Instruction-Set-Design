@@ -5,7 +5,7 @@ Lab is to design and build a 4-bit upcounter and a 4-bit downcounter, have thier
 
 Assignment can be found in 433_Lab_3_2022.docx
 
-simulation was done usiing logisim 
+Simulation was completed using Logisim 2.7.1
 
 upcount/dountcount jpgs are flipflop logic 
 
